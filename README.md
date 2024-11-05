@@ -1,0 +1,2 @@
+Учебный проект "Telegram/ChatGPT" 
+
